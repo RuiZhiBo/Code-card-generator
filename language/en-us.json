@@ -1,0 +1,13 @@
+{
+  "input_file": "Please enter code file name(s) (comma separated):",
+  "file_empty": "File name cannot be empty, please re-enter.",
+  "theme": "Choose card theme (light/dark, default light):",
+  "font": "Enter font name (default Consolas):",
+  "fontsize": "Enter font size (default 24):",
+  "show_lineno": "Show line numbers? (y/n, default y):",
+  "output_file": "Enter output file name (optional, {basename} for original name):",
+  "add_title": "Add title? (y/n, default n):",
+  "title_text": "Enter title text:",
+  "file_not_exist": "File does not exist: ",
+  "generated": "Generated: "
+}

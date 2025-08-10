@@ -1,0 +1,13 @@
+{
+  "input_file": "请输入代码文件名（可用逗号分隔多个文件）：",
+  "file_empty": "文件名不能为空，请重新输入。",
+  "theme": "请选择卡片主题（light/dark，默认light）：",
+  "font": "请输入字体名（默认Consolas）：",
+  "fontsize": "请输入字号（默认24）：",
+  "show_lineno": "是否显示行号？(y/n，默认y)：",
+  "output_file": "请输入输出文件名（可留空，支持{basename}自动替换为原文件名）：",
+  "add_title": "是否添加标题？(y/n，默认n)：",
+  "title_text": "请输入标题内容：",
+  "file_not_exist": "文件不存在: ",
+  "generated": "已生成："
+}
